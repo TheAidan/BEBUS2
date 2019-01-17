@@ -1,0 +1,5 @@
+#!/bin/bash
+source ~/catkin_ws/devel/setup.bash
+roscore &
+rosrun jaguar4x4_2014 jaguar4x4_2014_node
+

@@ -1,0 +1,6 @@
+#!/bin/bash
+source ~/catkin_ws/devel/setup.bash
+rosrun jaguar4x4_2014 drrobot_keyboard_teleop_node
+
+
+
